@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://www.example.org/DEVSModeler" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <CoupledModelType xmi:id="_u7j1QNEnEeeYX8A6EJnJgA" modelName="" defined="true" sourceFileRelativePath="Avain3(Immune).ma"/>
+  <notation:Diagram xmi:id="_u7j1QdEnEeeYX8A6EJnJgA" type="DEVS" element="_u7j1QNEnEeeYX8A6EJnJgA" name="Avain3(Immune).madesigner" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_u7j1QtEnEeeYX8A6EJnJgA"/>
+  </notation:Diagram>
+</xmi:XMI>

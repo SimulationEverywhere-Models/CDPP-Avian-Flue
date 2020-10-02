@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://www.example.org/DEVSModeler" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <CoupledModelType xmi:id="_gsakoNGYEeeYWvQ15-2SUw" modelName="" defined="true" sourceFileRelativePath="AvainInfluenza2.ma"/>
+  <notation:Diagram xmi:id="_gshSUNGYEeeYWvQ15-2SUw" type="DEVS" element="_gsakoNGYEeeYWvQ15-2SUw" name="AvainInfluenza2.madesigner" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_gshSUdGYEeeYWvQ15-2SUw"/>
+  </notation:Diagram>
+</xmi:XMI>
